@@ -18,7 +18,7 @@ The website for news is:
 http://www.peacefmonline.com
 
 
-![My Logo](/pictures/header-bg1)
+![My Logo](/images/header-bg1.jpg)
 
 :relaxed:
 :wink:
